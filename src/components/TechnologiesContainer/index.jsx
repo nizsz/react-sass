@@ -12,7 +12,7 @@ export function TechnologiesContainer(){
   ]
 
   return(
-    <section className="technologies-container">
+    <section className="technologies">
       <h2>Technologies</h2>
       <main className="technologies-grid">
         {technologies.map((tech) =>(
